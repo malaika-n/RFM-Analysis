@@ -13,7 +13,7 @@ It is used for understanding and segmenting customers based on their buying beha
 
 
 <b>Analyzing the correlation of the recency, frequency, and monetary scores within the champions segment:</b>
-<img src="Files/correlation.png">
+<img src="Files/ correlation.png">
 
 
 <b>Looking at the number of customers in all the segments:</b>
